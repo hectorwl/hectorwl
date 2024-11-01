@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to hide the Ubuntu's top bar without breaking something else.
 - 💞️ I’m looking to collaborate on pal projects.
 - 📫 How to reach me? U can't, perhaps I'm reaching u.
-- 😄 Pronouns: they, them
+- 😄 Pronouns: they, them; 'cause we are a lot.
 - ⚡ Fun fact: El azúl también es un color!
 
 <!---
